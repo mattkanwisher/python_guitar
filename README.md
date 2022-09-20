@@ -19,3 +19,4 @@ mkdir  python-aubio-librosa/lib/python3.9/site-packages/_soundfile_data
 cp /opt/homebrew/Cellar/libsndfile/1.1.0_1/lib/libsndfile.1.dylib python-aubio-librosa/lib/python3.9/site-packages/_soundfile_data/
 cp /opt/homebrew/Cellar/libsndfile/1.1.0_1/lib/libsndfile.dylib python-aubio-librosa/lib/python3.9/site-packages/_soundfile_data/
 ```
+
